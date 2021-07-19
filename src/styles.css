@@ -1,0 +1,14 @@
+html, body {
+    margin: 2rem;
+    background-color: greenyellow;
+}
+
+h1, div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-size: xx-large;
+}
+
+img {
+    width: 450px;
+}
